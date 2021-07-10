@@ -13,8 +13,8 @@ assignees: ''
 ## conference or year
 
 ## link
-- pdf
-- 実装
+- [pdf]()
+- [実装]()
 
 # 概要
 
